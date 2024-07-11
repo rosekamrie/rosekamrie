@@ -5,6 +5,7 @@ About Me
 I'm a passionate and dedicated data scientist with a strong background in market research, data analysis, and business process optimization. My experience in sales and business development has equipped me with valuable skills in marketing, analytics, and problem-solving, which I apply to derive meaningful insights from complex datasets.
 
 Interests
+
 📊 Data Visualization: I specialize in transforming data into compelling visual stories that drive informed decision-making and enhance operational efficiency.
 
 📚 Continuous Learning: I am committed to lifelong learning and continuously refining my skills in Python, R, SQL, and data visualization tools like Tableau and Power BI.
